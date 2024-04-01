@@ -1,0 +1,2 @@
+Na atividade, foi feito um prototipo no figma de uma pagina de um site de vendas, mostrando exemplos de tres paginas do site. sendo elas: 1 com a pagina inicial, apresentando alguns produtos: 1 pagina dos comentarios e avaliacoes de um produto aleatorio do possivel site e; a terceira pagina contendo a sacola de compra do usuario. 
+O motivo da entrega da atividade estar alguns dias atrasado é, porque no dia que foi realizada a atividade em sala eu tive uma consulta medica e precisei faltar, mas ja registrei meu atestado e fiz a atividade para obter nota. 
